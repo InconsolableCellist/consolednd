@@ -16,5 +16,5 @@ Run a campaign that is broken up into areas, each of which can have battles. Add
 
 Here it is running in cool-retro-term
 
-![](img/demo.webm)
+[demo.webm](./img/demo.webm)
 
